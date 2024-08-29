@@ -1,0 +1,159 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Monday, August 26, 2024 4:01:17 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Monday, August 26, 2024 4:01:17 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00502    (of 20480)
+DM1 RAM used:       00481    (of 20480)
+PM  RAM used(Data): 00000    (of 8192)
+PM  RAM used(Inst): 01823    (of 8192) 1454 instructions (32bit: 1085  64bit: 369)
+Total PM used:      01823    (of 8192)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+SuperBass1                    138       196       56      67      0
+Crossover1                    62        100       40      62      0
+RotVol1                       56        57        44      5       0
+2-Way-Links                   31        54        20      33      0
+2-Way-Rechts                  31        53        20      33      0
+Loudness L&H Ext1             39        53        10      8       0
+Crossover3                    31        50        20      32      0
+Crossover4                    31        50        20      32      0
+DCB1                          48        48        18      18      0
+FRAMEWORK                     62        43        23      0       0
+DmX1                          19        32        5       4       0
+Single 1                      19        31        4       6       0
+Gen Filter1                   15        30        11      14      0
+MX1                           21        30        8       2       0
+Param EQ1                     15        28        11      14      0
+Slew vol 1                    21        23        0       8       0
+Triangle2                     20        22        14      1       0
+Triangle1_2                   20        22        14      0       0
+Tone2_2                       18        18        10      1       0
+Tone2                         18        18        10      1       0
+PeakEnv1                      16        18        4       1       0
+PeakEnv2                      16        18        4       1       0
+Signal Detection1_4           14        17        4       1       0
+PeakEnv2_2                    16        16        4       1       0
+PeakEnv1_2                    16        16        4       1       0
+PeakEnv3                      16        16        3       1       0
+dbnce_5                       13        15        2       4       0
+dbnce_4                       13        15        2       4       0
+x/y 1                         13        15        0       1       0
+Signal Detection1_2           14        14        4       1       0
+Signal Detection1             14        14        4       1       0
+Signal Detection1_5           14        14        4       1       0
+TCount1                       14        14        1       4       0
+dbnce_6                       13        13        2       4       0
+dbnce_2                       13        13        2       4       0
+dbnce_3                       13        13        2       4       0
+Slew vol 2                    11        13        0       4       0
+Slew vol 1_3                  11        13        0       4       0
+Slew vol 2_4                  11        13        0       4       0
+Slew vol 2_2                  11        13        0       4       0
+Slew vol 1_2                  11        13        0       4       0
+sqrt1                         13        13        0       1       0
+MX2                           8         12        2       1       0
+AsrcIn1                       12        12        0       0       0
+Timer1_4                      10        11        1       2       0
+ABCD 2                        7         11        0       1       0
+ValX1_2                       10        10        1       3       0
+PulseCount1_2                 9         10        1       2       0
+Timer1_3                      10        10        1       2       0
+Timer1_2                      10        10        1       2       0
+Timer1                        10        10        1       2       0
+ABCD 1                        7         10        0       1       0
+S Mixer1                      6         9         2       1       0
+Mg1                           6         9         2       1       0
+Mg2                           6         9         2       1       0
+S Mixer2                      6         9         2       1       0
+ABCD 2_2                      7         9         0       1       0
+Mute6                         6         8         4       1       0
+Mute4                         6         8         4       1       0
+Mute5                         6         8         4       1       0
+Mute2                         6         8         4       1       0
+Mute1                         6         8         4       1       0
+Mute3                         6         8         4       1       0
+DCB1_2                        8         8         3       3       0
+ABCD 1_8                      7         8         0       1       0
+AB 1                          5         8         0       1       0
+ABCD 2_3                      7         8         0       1       0
+ABCD 1_2                      7         8         0       1       0
+S Mixer4                      7         7         3       1       0
+S Mixer3                      7         7         3       1       0
+ONSRise1_2                    7         7         1       4       0
+ZeroComp1_2                   5         7         1       1       0
+ABCD 1_7                      7         7         0       1       0
+ABCD 1_6                      7         7         0       1       0
+Add1                          4         7         0       1       0
+Gain1                         5         6         1       1       0
+X2                            5         6         0       2       0
+X1_2                          5         6         0       1       0
+X1                            5         6         0       1       0
+HardClip1                     5         5         2       1       0
+ZeroComp2                     5         5         1       1       0
+ZeroComp1                     5         5         1       1       0
+Gain3_2                       5         5         1       1       0
+Gain1_2                       5         5         1       1       0
+ZeroComp1_3                   5         5         1       0       0
+ADC In1                       4         5         0       1       0
+AB 1_2                        5         5         0       1       0
+X4                            5         5         0       0       0
+Interface Read2               4         4         1       1       0
+Interface Read1               4         4         1       1       0
+Inv2                          4         4         1       0       0
+Inv1                          4         4         1       0       0
+GPI2                          4         4         0       1       0
+GPI1                          4         4         0       1       0
+Fb1_3                         2         4         0       1       0
+Add1_3                        4         4         0       1       0
+Add1_4                        4         4         0       1       0
+Add1_2                        4         4         0       0       0
+ADC In6                       4         4         0       0       0
+ADC In5                       4         4         0       0       0
+ADC In4                       4         4         0       0       0
+ADC In3                       4         4         0       0       0
+ADC In2                       4         4         0       0       0
+Fb1_2                         2         3         0       1       0
+Abs2_2                        3         3         0       1       0
+Abs1                          3         3         0       1       0
+GPO1                          2         3         0       0       0
+CH02                          2         3         0       0       0
+CH03                          2         3         0       0       0
+CH04                          2         3         0       0       0
+CH05                          2         3         0       0       0
+CH01                          2         3         0       0       0
+GPO3                          2         3         0       0       0
+CH06                          2         3         0       0       0
+DC5                           2         2         1       1       0
+DC4                           2         2         1       1       0
+DC3                           2         2         1       1       0
+DC3_2                         2         2         1       1       0
+DC3_3                         2         2         1       1       0
+DC9_4                         2         2         1       1       0
+DC9_3                         2         2         1       1       0
+DC9_2                         2         2         1       1       0
+DC3_16                        2         2         1       1       0
+DC9                           2         2         1       1       0
+DC7                           2         2         1       1       0
+DC1                           2         2         1       1       0
+DC2                           2         2         1       1       0
+DC2_3                         2         2         1       1       0
+DC2_2                         2         2         1       1       0
+Interface Write1              2         2         0       0       0
+Interface Write2              2         2         0       0       0
+GPO2                          2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         1431      1763      498     477     0
+--------------------------------------------------------------------------------------
+(% Fs=192.0kHz)               94%       22%       3%      3%      0%
+
