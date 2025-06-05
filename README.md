@@ -68,3 +68,13 @@ The **Poor Engineer's Distortion Analyzer** is used to measure the distortion pe
 ## License  
 
 The hardware is licensed under **CC BY-SA 4.0**.  
+
+
+##
+
+<p align="center">
+  <strong>☕ Fuel this project</strong><br><br>
+  <a href="https://www.buymeacoffee.com/f_io" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</p>
